@@ -12,7 +12,7 @@ mkdir sounds
 ```
 
 
-```{python}
+```python
 def generate_chord(notes, name):
   track    = 0
   channel  = 0
